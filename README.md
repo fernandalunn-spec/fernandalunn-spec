@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**fernandalunn-spec/fernandalunn-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de `Ciencia da Computação`
+- Buscando atuar na area de `Cibergurança`
+- Atualmente aprofundando meus conhecimentos em `HTML, e CSS`
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+![HTML Academy Badge](https://img.shields.io/badge/HTML%20Academy-302683?logo=htmlacademy&logoColor=fff&style=for-the-badge)
+![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu Roadmap(Próximo 6 meses)
+- [ ]Criar meu README de perfil no GitHub
+- [ ]subir 2 projetos completos (com documentação) no GitHub
+- [x] Melhorar meu nível de inglês para leitura
+
+## Projetos em Destaque
+
+  | Projeto | Descrição | Stack Principal |
+  | --- | --- | --- |
+  | [Nome do Projeto](link) | `BREV DESCRIÇÃO` |
+  `LINGUAGEM/FRAMEWORK` |
+  | [CRUD básico](![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge))
+
+  ## Como Falar Comigo
+  = [Linkedin] https://www.linkedin.com/in/fernanda-lunguinho-8b6b233b4/
+  
